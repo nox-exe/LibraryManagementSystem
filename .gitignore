@@ -1,0 +1,26 @@
+# Compiled files
+build/
+dist/
+
+# NetBeans private settings
+nbproject/private/
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code (if you also use it)
+.vscode/
+
+# IntelliJ (if applicable)
+.idea/
+*.iml
