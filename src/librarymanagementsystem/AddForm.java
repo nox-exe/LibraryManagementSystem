@@ -107,7 +107,6 @@ public class AddForm extends javax.swing.JFrame {
         setMaximumSize(new java.awt.Dimension(8000, 5500));
         setMinimumSize(new java.awt.Dimension(800, 550));
         setName("AddForm"); // NOI18N
-        setPreferredSize(new java.awt.Dimension(800, 550));
         setResizable(false);
         setSize(new java.awt.Dimension(800, 550));
 
