@@ -471,6 +471,7 @@ public class AddForm extends javax.swing.JFrame {
         fnameTextField.setText("");
         lnameTextField.setText("");
         contactNumTextField.setText("");
+        setInitialDates();
     }//GEN-LAST:event_clearBtn_borrowerActionPerformed
 
     private void returnMenuBtn_borrowerActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_returnMenuBtn_borrowerActionPerformed
